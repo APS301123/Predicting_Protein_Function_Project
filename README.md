@@ -36,7 +36,7 @@
 <img width="596" height="230" alt="Screenshot 2025-10-30 at 11 36 11 AM" src="https://github.com/user-attachments/assets/970b501d-b50c-4771-a8c2-06a3c3a43292" />
 
 
-This is from the first structure in the dataset, it demonstrates that the files were success put into a list
+This is from the first structure in the dataset, it demonstrates that the files were successfully put into a list
 
 ## Test 3
 
