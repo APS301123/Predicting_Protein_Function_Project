@@ -1,6 +1,7 @@
 # Predicting_Protein_Function_Project
 
 ## Plan for Creating Dataset
+<img width="606" height="445" alt="Screenshot 2025-10-30 at 9 58 11 PM" src="https://github.com/user-attachments/assets/ed99526b-d9be-4a0e-8906-6287a5c85bc3" />
 
 - Extract 3D protein data
 - Find out Uniprot Accession code
