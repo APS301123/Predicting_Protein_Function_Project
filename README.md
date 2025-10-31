@@ -1,4 +1,5 @@
 # Predicting_Protein_Function_Project
+- Note code does not work since dataset is not uploaded due to its size, yet. That is why no outputs and the error is present.
 
 ## Plan for Creating Dataset
 <img width="606" height="445" alt="Screenshot 2025-10-30 at 9 58 11 PM" src="https://github.com/user-attachments/assets/ed99526b-d9be-4a0e-8906-6287a5c85bc3" />
